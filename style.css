@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: #f0f0f0;
+}
+.one {
+    width: 100%;
+    height: 100vh;
+    background: url('purple.jpg') no-repeat center;
+    background-size: 1380px;
+    display: flex;
+    align-items: center;
+    color: #f0f0f0;
+    text-align: left;
+    padding: 0 10%;
+    
+}
+.one h6 {
+    color: #7d04c4;
+}
+.one h1 {
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    max-width: 500px;
+    
+}
+.one p {
+    font-size: .8em;
+    margin-bottom: 20px;
+    max-width: 500px;
+}
+.btn-box a {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 130px
+    height: 50px;
+    font-size: .9em;
+    padding: 10px 20px;
+    background: #7d04c4;
+    color: #f0f0f0;
+    text-decoration: none;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    text-align: left;
+    padding: 20px;
+    color: #000000;
+  }
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .two {
+    width: 100%;
+    height: 100vh;
+    background: url('pur.jpg');
+    background-size: 1000px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-align: left;
+    padding: 0 10%;
+
+}
+.two h6 {
+    color: #7d04c4;
+}
+.two h1 {
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    max-width: 500px;
+    
+}
+.two p {
+    font-size: .8em;
+    margin-bottom: 20px;
+    max-width: 500px;
+}
+
+.three {
+    width: 100%;
+    height: 100vh;
+    background: url('ligth.jpg') no-repeat center;
+    background-size: 1500px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-align: left;
+    padding: 0 10%;
+    
+}
+.four {
+    width: 100%;
+    height: 100vh;
+    background-size: 1500px;
+    background: url('ligth.jpg') no-repeat center;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-align: left;
+    padding: 0 10%;
+    
+}
+.five {
+    width: 100%;
+    height: 100vh;
+    background-size: 1500px;
+    background: url('ligt.jpg') no-repeat center;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-align: left;
+    padding: 0 10%;
+    
+}
+
+
+
+
